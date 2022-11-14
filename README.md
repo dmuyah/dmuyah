@@ -7,7 +7,14 @@ Am open to projects and collaborations.
 
 Skills: HTML / CSS / JS / NODE JS / VUE JS / REACT / LARAVEL /  
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Finnai.co.ke 
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about React Vue Laravel Node Js 
+- ⚡ Fun fact: Dont take advice from every old folk. Fools Don't die young 
+
+
+
+
 
 
 
