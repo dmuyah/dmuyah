@@ -13,13 +13,7 @@ Skills: HTML / CSS / JS / NODE JS / VUE JS / REACT / LARAVEL /
 - ⚡ Fun fact: Dont take advice from every old folk. Fools Don't die young 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dmuyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/DennisMuya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dmuyah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19348152)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.finnai.co.ke)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmuyah&show_icons=true)  
 
-
-
-
-
-
-
-
-[![Dennis' github stats](https://github-readme-stats.vercel.app/api?username=dmuyah)](https:github.com/dmuyah/github-readme-stats)
