@@ -5,7 +5,7 @@ Am currently working at Finnai Tech Solution with is a startup i co own with my 
 Am open to projects and collaborations. 
 
 
-Skills: HTML / CSS / JS / NODE JS / VUE JS / REACT / LARAVEL /  
+Skills: HTML / CSS / JS / NODE JS / VUE JS / REACT / LARAVEL 
 
 - 🔭 I’m currently working on Finnai.co.ke 
 - 🌱 I’m currently learning Flutter 
