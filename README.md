@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dennis Muya
-#### I am Fullstack Web Developer and a graphic designer based in Nairobi🇰🇪
+#### I am Fullstack Web Developer and a graphic designer based in Nairobi 🇰🇪
 Am tech enthusiast with passion in problem solving technology and challeges. 
 Am currently working at Finnai Tech Solution with is a startup i co own with my friends. 
 Am open to projects and collaborations. 
