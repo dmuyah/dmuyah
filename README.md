@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋, my name is Dennis Muya<br>#I am Fullstack Web Developer and a graphic designer based in Nairobi 🇰🇪<br>Am tech enthusiast with passion in problem solving technology and challeges. <br>Am currently working at Finnai Tech Solution with is a startup i co own with my friends. <br>Am open to projects and collaborations. <br><br>- 🔭 I’m currently working on Finnai.co.ke <br>- 🌱 I’m currently learning Flutter <br>- 💬 Ask me about React Vue Laravel Node Js <br>- ⚡ Fun fact: Don't take advice from every old folk. Fools Don't die young 
+### Hi there 👋, my name is Dennis Muya<br># I am Fullstack Web Developer and a graphic designer based in Nairobi 🇰🇪<br>Am tech enthusiast with passion in problem solving technology and challeges. <br>Am currently working at Finnai Tech Solution with is a startup i co own with my friends. <br>Am open to projects and collaborations. <br><br>- 🔭 I’m currently working on Finnai.co.ke <br>- 🌱 I’m currently learning Flutter <br>- 💬 Ask me about React Vue Laravel Node Js <br>- ⚡ Fun fact: Don't take advice from every old folk. Fools Don't die young 
 
 
 ## 🌐 Socials:
